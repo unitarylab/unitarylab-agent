@@ -1,0 +1,99 @@
+Unitary Lab Closed-Source Software Non-Commercial Use License Agreement
+
+Important Notice:
+This Agreement is a legal agreement between you, the user, and Shanghai Unitary Lab Technology Co., Ltd. and its affiliates, hereinafter referred to as “Unitary Lab,” regarding the use of the closed-source software products provided by Unitary Lab, hereinafter referred to as the “Software.” Please read this Agreement carefully before installing or using the Software. By installing or using the Software, you indicate that you agree to be bound by all terms of this Agreement.
+
+1. Definitions
+
+Unitary Lab means Shanghai Unitary Lab Quantum Technology Co., Ltd. and its affiliates.
+
+Licensed Software means, including but not limited to, the quantum simulator software and Quantum Agent CLI software released by Unitary Lab as closed-source software.
+
+You means any individual, company, or other entity using the Licensed Software under this User Agreement.
+
+Documentation means the documentation regarding the Licensed Software provided by Unitary Lab on Unitary Lab’s official website.
+
+Open Source Software means third-party software distributed or otherwise provided under “free software,” “open source software,” or similar licensing or distribution models.
+
+Non-Commercial Use means academic or research use.
+
+2. Scope of License
+
+Subject to the terms of this Agreement, Unitary Lab grants you a limited, non-exclusive, non-transferable, non-sublicensable copyright license to the Software, terminable by Unitary Lab in accordance with this Agreement, for Non-Commercial Use only. This license permits you to install and use one copy of the Software on a single computer.
+
+If you wish to use the Licensed Software for commercial purposes, you must apply to Unitary Lab for an additional commercial license. Unitary Lab may, at its sole discretion, decide whether to grant you such rights.
+
+3. Reservation of Rights
+
+All copyrights, trademarks, patents, trade secrets, and other intellectual property rights in and to the Software, as well as all information and content related to the Software, including but not limited to text, images, audio, video, charts, interface designs, layout frameworks, relevant data, and electronic documents, are protected by the laws and regulations of the People’s Republic of China and applicable international treaties.
+
+Unitary Lab owns the above intellectual property rights, except for rights that relevant rights holders are entitled to enjoy under applicable laws. This Agreement does not transfer any intellectual property rights to you.
+
+4. Restrictions on Use
+
+You agree that you are responsible for your access to or use of the Licensed Software and for any consequences arising therefrom. You agree to use the Licensed Software only for lawful and appropriate purposes, and in compliance with this Agreement and any applicable laws or regulations.
+
+You shall not, and shall not encourage any third party to:
+
+use the Licensed Software beyond the scope of Non-Commercial Use;
+modify, adapt, alter, translate, or create derivative works of the Licensed Software;
+reverse engineer, decompile, disassemble, or attempt to derive the source code of the Licensed Software, in whole or in part;
+distribute, license, sublicense, rent, lease, lend, or otherwise transfer the Licensed Software to any third party;
+use the Licensed Software for commercial hosting or use the Licensed Software to provide remote interactive services to any third party;
+remove, alter, or obscure in any manner any proprietary notices of Unitary Lab contained on or in any copy of the Licensed Software, including but not limited to copyright, patent, trademark, and other intellectual property notices, as well as the text of this Agreement;
+use the Licensed Software to create products or services that compete with the Licensed Software;
+use the Licensed Software in any manner other than as described in this Agreement or for any illegal purpose.
+
+This Agreement does not grant you any license to use the corporate name, trademarks, or other commercial identifiers of Unitary Lab. You shall not mention the corporate name, trademarks, or other commercial identifiers of Unitary Lab in any promotional materials for your services or products.
+
+5. Open Source Software
+
+If the Licensed Software contains or uses any portion of Open Source Software, such portion shall be distributed and provided under the terms of the applicable open source license agreement. Copyrights and other proprietary rights in Open Source Software are held by their respective copyright owners.
+
+6. Disclaimer of Warranties
+
+Unless required by applicable law or agreed to in writing, Unitary Lab provides the Licensed Software on an “as is” basis only, without warranties or conditions of any kind, whether express or implied, including but not limited to any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.
+
+You assume all risks associated with your use of the Licensed Software.
+
+7. Limitation of Liability
+
+In no event and under no legal theory, whether in tort, including negligence, contract, or otherwise, unless required by applicable law, such as in cases of intentional misconduct or gross negligence, or agreed to in writing, shall Unitary Lab be liable for any damages suffered by you.
+
+Such damages include any direct, indirect, special, incidental, or consequential damages of any nature arising from the Licensed Software ceasing to function or from the inability to use the Licensed Software, including but not limited to loss of goodwill, damages caused by work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if Unitary Lab has been advised of the possibility of such damages.
+
+8. Export Control
+
+You understand that your use of the Licensed Software shall comply with the relevant laws and regulations of the People’s Republic of China concerning export control.
+
+9. Term and Termination
+
+This Agreement becomes effective upon your acceptance and remains in effect until you stop using the Software or until Unitary Lab terminates this Agreement through reasonable means, including but not limited to announcements on Unitary Lab’s official website or written notice.
+
+Unitary Lab has the right to terminate this Agreement immediately if you violate any term of this Agreement.
+
+10. Changes to Terms
+
+Unitary Lab may modify the terms of this Agreement from time to time and notify you through reasonable means, including but not limited to announcements on Unitary Lab’s official website or written notice. The relevant notice shall specify the effective date of the modifications.
+
+11. Force Majeure
+
+Except for the inability to perform financial obligations, neither party shall be liable for any failure or delay in performance caused by reasons beyond its reasonable control, including but not limited to acts of God, fire, earthquake, flood, storm, natural disaster, computer-related attacks, hacking attacks, failure or delay of internet service providers, accidents, epidemics, labor disputes, civil disobedience, acts of terrorism, or governmental acts, each referred to as a “Force Majeure Event.”
+
+The parties agree to use their best efforts to mitigate the impact of such failure or delay.
+
+12. No Waiver
+
+Unitary Lab’s failure to enforce or exercise any right under this Agreement shall not be deemed a waiver of such right. Any waiver of rights shall be made by formal written notice from Unitary Lab.
+
+13. Miscellaneous
+
+This Agreement shall be governed by the laws of the People’s Republic of China.
+
+Any dispute arising from this Agreement shall first be resolved through friendly consultation between the parties. If consultation fails, either party shall have the right to file a lawsuit with the competent people’s court at the place where Unitary Lab is located.
+
+The headings of all terms of this Agreement are for convenience of reading only and have no substantive meaning. They shall not be used as a basis for interpreting the meaning of this Agreement.
+
+This Agreement may exist in multiple language versions, including Chinese and English. In the event of any conflict between the Chinese version and any other language version, the Chinese version shall prevail. The English translation is provided for reference purposes only.
+
+If any term of this Agreement is held to be partially invalid or unenforceable for any reason, the remaining terms shall remain valid and binding upon both parties.
